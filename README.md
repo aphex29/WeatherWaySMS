@@ -1,7 +1,7 @@
 ## This is my python script that is set to send the user an SMS about the current weather and the time to get to work.
 
 In order to get this to work on your system, you will need a few libraries to download onto your virtual env or local system:
-* [Google Maps library]([https://openweathermap.org/api](https://developers.google.com/maps/documentation/distance-matrix/overview))                      (pip install googlemaps)
+* [Google Maps library](https://developers.google.com/maps/documentation/distance-matrix/overview)                      (pip install googlemaps)
 * [Twilio library](https://www.twilio.com/docs/libraries/python)             (pip install twilio)
 * [OpenWeatherMaps library](https://github.com/csparpa/pyowm)                (pip install pyowm)
 * [Schedule library](https://schedule.readthedocs.io/en/stable/)             (pip install schedule)
