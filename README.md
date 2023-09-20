@@ -26,7 +26,7 @@ This config file will hold all of your private information such as API keys, aut
 The general formatting of the config file goes like this:
 
 ---
-<h4>
+
 google_api_key = "*Google_API_Key*"
 <br/>
 origin = "*home_address*"
@@ -53,4 +53,4 @@ my_phone_number="*your_phone_number*"
 ow_api_key = "*openmapsweather_api_key*"
 <br/>
 ow_city = "*City, ST, Country*"
-</h4>
+
